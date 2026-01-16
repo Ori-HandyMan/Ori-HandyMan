@@ -1,16 +1,19 @@
-## Hi there 👋
+# היי, אני אורי 👋🛠️
 
-<!--
-**Ori-HandyMan/Ori-HandyMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+אני הנדימן עצמאי מישראל, ובונה כלים/דפים/אוטומציות שעוזרים לי לנהל עסק שירותים בצורה חכמה ופשוטה.
 
-Here are some ideas to get you started:
+## מה תמצאו פה?
+- 🌐 אתר/דף שירותים (GitHub Pages)
+- 🤖 רעיונות וכלים לוואטסאפ ביזנס (תשובות אוטומטיות, שאלונים ללקוח)
+- 🧾 מחשבוני מחיר ועבודה (תמחור לפי זמן/חומרים/נסיעות)
+- ✅ צ’קליסטים מקצועיים לעבודות נפוצות (אטימה, התקנות, תיקונים)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## פרויקטים מומלצים (בקרוב)
+- `Ori-HandyMan.github.io` – דף נחיתה / פורטפוליו
+- `whatsapp-quick-reply-flows` – תבניות שיחה ללקוחות
+- `pricing-calculator` – מחשבון תמחור פשוט
+
+## יצירת קשר
+אם בא לך לשתף פעולה או לשאול משהו מקצועי:
+- 📧 Email: (שים פה אם אתה רוצה)
+- 🌍 Website: (שים פה את הקישור של ה-Pages)
